@@ -22,5 +22,5 @@ This is my personal portfolio website showcasing my projects, skills, and contac
    git clone https://github.com/gianyves/portfolio.git
 
 ## Contact
-Email: giangarcia479@gmail.com
+Email: giangarcia479@gmail.com  
 LinkedIn: www.linkedin.com/in/gian-yves-garcia-980b24309 
