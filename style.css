@@ -1,0 +1,14 @@
+/* style.css */
+body { 
+  font-family: Arial, sans-serif; /* Changes font style */
+  text-align: center;             /* Centers all text */
+  margin-top: 50px;               /* Adds space at the top */
+  background-color: #f2f2f2;      /* Light gray background */
+}
+h1 { 
+  color: #1a73e8;                 /* Blue heading */
+}
+p {
+  color: #333333;                 /* Dark gray paragraph */
+  font-size: 18px;                /* Slightly bigger text */
+}
