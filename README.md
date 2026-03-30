@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, and contact information.
 
 ## Live Demo
-[View Live Portfolio](http://gian-portfolio-2026.s3-website-ap-southeast-2.amazonaws.com)
+[View Live Portfolio](https://gianyves.github.io/)
 
 ## Features
 - Home page with introduction
