@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, and contact information.
 
 ## Live Demo
-[View Live Portfolio](https://gianyves.github.io/)
+[View Live Portfolio](https://gianyves.github.io/portfolio/)
 
 ## Features
 - Home page with introduction
